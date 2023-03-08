@@ -30,4 +30,3 @@ In the body tag, add:
 
 - a footer tag
     - a paragraph tag
-
