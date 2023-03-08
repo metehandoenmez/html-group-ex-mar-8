@@ -13,9 +13,10 @@ In the html tag, add the body tag.
 
 In the body tag, add:
  - a div tag
+    - a header tag
+        - a paragraph tag
     - a main tag
-        - a header tag
-            - a paragraph tag
+
         - a section tag
             - an h1, h2 and h3 tags, one after another.
             - an ul list tag
@@ -25,5 +26,5 @@ In the body tag, add:
             - a text input tag
             - a checkbox input tag
             - a date input tag
-        - a footer tag
-            - a paragraph tag
+    - a footer tag
+        - a paragraph tag
